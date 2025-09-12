@@ -1,6 +1,6 @@
 # Hello, everyone. 👽🖖
 
-My name is Daniel, I'm a young technology enthusiast. I'm a biomedical engineer by profession. I'm currently pursuing **two postgraduate** degrees: **cybersecurity** and **digital law**.
+My name is Daniel, I'm a young technology enthusiast. I'm a biomedical engineer by profession. I'm currently pursuing **postgraduate** in **cybersecurity**.
 
 ## Tech Stack 🔧
 
