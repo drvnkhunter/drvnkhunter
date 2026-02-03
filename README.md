@@ -4,7 +4,7 @@ My name is Daniel, I'm a young technology enthusiast. I'm a biomedical engineer 
 
 ## Tech Stack 🔧
 
-This section is constantly updated, I am building my future in cybersecurity coming from biomedicine. 😄
+This section is constantly updated. 😄
 
 **Languages & Tools:**
 
