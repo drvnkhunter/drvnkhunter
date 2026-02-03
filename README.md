@@ -20,7 +20,7 @@ This section is constantly updated. 😄
 
 **Cybersecurity Tools:**
 
-* **SIEM & Logs:** - Splunk & Elastic SIEM
+* **SIEM & Logs** - Splunk & Elastic SIEM
 * **Network Analysis** - Wireshark, Nmap, Snort
 * **Web Pentesting** - Burp Suite, OWASP 10
 * **Threat Intel** - VirusTotal, AnyRun, MITRE ATT&CK
