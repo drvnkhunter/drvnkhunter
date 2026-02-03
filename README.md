@@ -32,15 +32,15 @@ This section is constantly updated. 😄
 
 - Master’s in Cybersecurity
 - Threat Detection & Incident Response (SOC)
-- Application of secure development and DevSec practices
-- Building cybersecurity labs with **TryHackMe** & **Blue Team Labs**
+- Application of Secure Development and DevSec Practices
+- Building Cybersecurity Labs on **TryHackMe** & **Blue Team Labs**
 
 ## Experience 🚀
 
 * **Founder and CEO** – Cunsecurity Solutions (In Development)
 * **Safe Inventory Systems Engineer** - Hospital General Dr. Jesús Gilberto Gómez Maza 
 * **Web System Engineer For Telemedicine (Internship)** - Neodata SA de CV
-* **Web System Developer** - Hospital de la Mujer de San Cristobal de las Casa
+* **Web System Developer** - Hospital de la Mujer de San Cristobal de las Casas
 * **Biomedical Engineer** - Hospital de Especialidades Pediátricas
 
 ## Languages 🌍
