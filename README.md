@@ -13,39 +13,40 @@ This section is constantly updated, I am building my future in cybersecurity com
 * SQL, MySQL
 * HTML, CSS
 * PHP, phpMyAdmin
-* Bash/Shell Scripting 
-
-**Frameworks:**
-
-* Laravel
-* Bootstrap
+* Bash, Shell Scripting
+* Kotlin, Spring Boot
+* Dart, Flutter
+* YAML, JSON
 
 **Cybersecurity Tools:**
 
-* SIEM Splunk
-* Wireshark, Nmap... yet
+* **SIEM & Logs:** - Splunk & Elastic SIEM
+* **Network Analysis** - Wireshark, Nmap, Snort
+* **Web Pentesting** - Burp Suite, OWASP 10
+* **Threat Intel** - VirusTotal, AnyRun, MITRE ATT&CK
+* **OSINT & Recon** - Shodan, Whois, Epieos, etc
+* **Crypto / Forense** - CyberChef, FTK Imager, Autopsy, EnCase Imager
+* **DevSec** - Veracode, OWASP Zap
 
-## Currently Learning 🧩
+## Currently Learning and Working 🧩
 
 - Master’s in Cybersecurity
-- Master’s in Digital Law
 - Threat Detection & Incident Response (SOC)
-- Machine Learning and Data Science
+- Application of secure development and DevSec practices
 - Building cybersecurity labs with **TryHackMe** & **Blue Team Labs**
 
 ## Experience 🚀
 
-* **Biomedical Internship** - Multiple Hospitals
-* **Web Developer** - Hospital de la Mujer de SDLC
-* **Web System Developer** - Hospital de Especialidades Pediátricas
-* **Web System Engineer Internship** - NEODATA (Telemedicine)
-* **Medical Inventory System Developer** – Sanatorio Muñoa
-* **Founder** – Cunsecurity Solutions
+* **Founder and CEO** – Cunsecurity Solutions (In Development)
+* **Safe Inventory Systems Engineer** - Hospital General Dr. Jesús Gilberto Gómez Maza 
+* **Web System Engineer For Telemedicine (Internship)** - Neodata SA de CV
+* **Web System Developer** - Hospital de la Mujer de San Cristobal de las Casa
+* **Biomedical Engineer** - Hospital de Especialidades Pediátricas
 
 ## Languages 🌍
 * **Spanish** - Native
 * **English** - Intermediate (Technical & Cybersecurity Focus)
-* **German** - Basic (Just for fun)
+* **Portuguese** - Basic (Just for fun)
 
 ## How to Reach Me 📫 
 
@@ -53,7 +54,3 @@ This section is constantly updated, I am building my future in cybersecurity com
 - 💼 LinkedIn: [frandanielcunjama](https://www.linkedin.com/in/frandanielcunjama/)
 - 👽 TryHackMe: [drvnkhunter](https://tryhackme.com/p/drvnkhunter)
 - 💻 YouTube: [Dr.Hunter | Ciberseguridad](https://www.youtube.com/@drhunterciber)
-
-## Fun Fact 🧠 
-
-> My dream is to combine biomedical engineering with cybersecurity, create my own cybersecurity consultancy focused on hospitals, and teach at the university level. 🤓
