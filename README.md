@@ -20,7 +20,7 @@ This section is constantly updated. 😄
 
 **Cybersecurity Tools:**
 
-* **DevSec** - Veracode, Snyk Code, GitHub Actions, OWASP Top 10 Mobile
+* **DevSecOps** - Veracode, Snyk Code, GitHub Actions - CI/CD and Build Security, OWASP Top 10 Mobile
 * **SIEM & Logs** - Splunk & Elastic SIEM
 * **Network Analysis** - Wireshark, Nmap, Snort
 * **Pentesting** - Kali Linux, Burp Suite, Metasploit, Nessus, SQLMap
@@ -34,7 +34,7 @@ This section is constantly updated. 😄
 - Threat Detection & Incident Response (SOC)
 - Consultant in the Financial Sector
 - Vulnerability Assessments (SAST/DAST)
-- Application of Secure Development and DevSec Practices
+- Application of Secure Development and DevSecOps Practices
 - Building Cybersecurity Labs on **TryHackMe** & **Blue Team Labs**
 
 ## Experience 🚀
