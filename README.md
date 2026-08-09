@@ -1,6 +1,6 @@
 # Hello, everyone. 👽🖖
 
-My name is Daniel, I'm a young technology enthusiast. I'm a biomedical engineer by profession. I'm currently pursuing **postgraduate** in **cybersecurity**.
+Cybersecurity Professional with ≈3 years of experience in IT: **cybersecurity** and **application security**. Consultant in the **financial sector**, designing secure frameworks for mobile applications based on vulnerability analysis (SAST/DAST). Strong foundation in security operations (SOC): log analysis, threat detection, and threat intelligence. **Master's student in cybersecurity. Member of ASICI (Spain)**.
 
 ## Tech Stack 🔧
 
@@ -20,31 +20,35 @@ This section is constantly updated. 😄
 
 **Cybersecurity Tools:**
 
-* **DevSecOps** - Veracode, Snyk Code, GitHub Actions - CI/CD and Build Security, OWASP Top 10 Mobile
-* **SIEM & Logs** - Splunk & Elastic SIEM
-* **Network Analysis** - Wireshark, Nmap, Snort
-* **Pentesting** - Kali Linux, Burp Suite, Metasploit, Nessus, SQLMap
-* **Threat Intel** - VirusTotal, AnyRun, MITRE ATT&CK
+* **DevSecOps** - Veracode, Snyk Code, GitHub Actions - CI/CD and Build Security, OWASP Top 10 Mobile.
+* **SIEM & Network** - Splunk, Elastic SIEM, Wireshark, Tcpdump, Nmap, Snort.
+* **Network Analysis** - Wireshark, Nmap, Snort.
+* **Pentesting** - Kali Linux, Burp Suite, Metasploit, Nessus, SQLMap, Nikto, etc.
+* **Threat Intel** - VirusTotal, AnyRun, MITRE ATT&CK.
 * **OSINT & Recon** - Shodan, Whois, Epieos, etc
-* **Crypto / Forense** - CyberChef, FTK Imager, Autopsy, EnCase Imager
+* **Crypto / Forense** - CyberChef, FTK Imager, Autopsy, EnCase Imager.
 
-## Currently Learning and Working 🧩
+## Certifications 🧩
 
-- Master’s in Cybersecurity
-- Threat Detection & Incident Response (SOC)
-- Consultant in the Financial Sector
-- Vulnerability Assessments (SAST/DAST)
-- Application of Secure Development and DevSecOps Practices
-- Building Cybersecurity Labs on **TryHackMe** & **Blue Team Labs**
+- CompTIA Security+
+- eJPT Certification Candidate
+- Cisco Networking Academy Junior Cybersecurity Analyst
+- TryHackMe Security Engineer Certificate
+- TryHackMe SOC Level 1 Certificate
+- Google Cybersecurity 
+- Google Python
+- Google Network Security
+- Santander Project Management and Agile Methodology Fundamentals
+- Santander Introduction to Data Science
 
 ## Experience 🚀
 
-* **Founder and CEO** – Cunsecurity Solutions (In Development)
-* **Application Security and DevSec** – Financial Sector
-* **Software Engineer in Security** - Hospital General Dr. Jesús Gilberto Gómez Maza 
+* **HPE NonStop Tandem Consultant** - OmniPayments
+* **Application Security Engineer** – Financial Sector
+* **Secure Software Engineer** - IMSS Bienestar
 * **Secure Systems Architect (Internship)** - Neodata SA de CV
-* **Web System Developer** - Hospital de la Mujer de San Cristobal de las Casas
-* **Biomedical Engineer** - Hospital de Especialidades Pediátricas
+* **Web System Developer** - Secretaría de Salud del Gobierno de México
+* **Biomedical Engineer** - Secretaría de Salud del Gobierno de México
 
 ## Languages 🌍
 * **Spanish** - Native
@@ -53,7 +57,6 @@ This section is constantly updated. 😄
 
 ## How to Reach Me 📫 
 
-- 📧 Email: ceo@cunsecurity.com 
 - 💼 LinkedIn: [frandanielcunjama](https://www.linkedin.com/in/frandanielcunjama/)
 - 👽 TryHackMe: [drvnkhunter](https://tryhackme.com/p/drvnkhunter)
 - 💻 YouTube: [Dr.Hunter | Ciberseguridad](https://www.youtube.com/@drhunterciber)
