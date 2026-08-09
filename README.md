@@ -1,6 +1,6 @@
 # Hello, everyone. 👽🖖
 
-Cybersecurity Professional with ≈3 years of experience in IT: **cybersecurity** and **application security**. Consultant in the **financial sector**, designing secure frameworks for mobile applications based on vulnerability analysis (SAST/DAST). Strong foundation in security operations (SOC): log analysis, threat detection, and threat intelligence. **Master's student in cybersecurity. Member of ASICI (Spain)**.
+**Cybersecurity and Infrastructure Professional** with +3 years of experience spanning IT operations, **DevOps**, and **Application Security**. Consultant in the **financial sector**, designing secure frameworks for mobile applications based on vulnerability analysis (SAST/DAST). Strong foundation in security operations (SOC): log analysis, threat detection, and threat intelligence. **Master's student in cybersecurity. Member of ASICI (Spain)**.
 
 ## Tech Stack 🔧
 
