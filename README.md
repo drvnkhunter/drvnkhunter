@@ -33,6 +33,7 @@ This section is constantly updated. 😄
 - CompTIA Security+
 - eJPT Certification Candidate
 - Cisco Networking Academy Junior Cybersecurity Analyst
+- Cisco Networking Academy Ethical Hacker
 - TryHackMe Security Engineer Certificate
 - TryHackMe SOC Level 1 Certificate
 - Google Cybersecurity 
