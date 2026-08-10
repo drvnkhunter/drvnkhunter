@@ -38,6 +38,7 @@ This section is constantly updated. 😄
 - Google Cybersecurity 
 - Google Python
 - Google Network Security
+- Edutin Academy Cybersecurity and Information Security
 - Santander Project Management and Agile Methodology Fundamentals
 - Santander Introduction to Data Science
 
