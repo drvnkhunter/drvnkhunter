@@ -1,6 +1,6 @@
 # Hello, everyone. 👽🖖
 
-**Cybersecurity** and **Infrastructure** Professional with 3+ years of experience bridging **DevOps**, **Application Security**, and IT operations. Proven track record securing mission-critical **financial** and **healthcare systems** through threat modeling, SAST/DAST, and infrastructure hardening. **Master's** student in **Cybersecurity** and Active **ASICI Member - Asociación Internacional de Ciberseguridad** (Spain).
+**Cybersecurity** and **Infrastructure** Professional with 3+ years of experience bridging **Ethical Hacking**, **Application Security**, and IT operations. Proven track record securing mission-critical **financial** and **healthcare systems** through threat modeling, SAST/DAST, and infrastructure hardening. **Master's** student in **Cybersecurity** and Active **ASICI Member - Asociación Internacional de Ciberseguridad** (Spain).
 
 ## Tech Stack 🔧
 
@@ -20,11 +20,11 @@ This section is constantly updated. 😄
 
 **Cybersecurity Tools:**
 
-* **DevSecOps** - Veracode, Snyk Code, GitHub Actions - CI/CD and Build Security, OWASP Top 10 Mobile.
-* **SIEM & Network** - Splunk, Elastic SIEM, Wireshark, Tcpdump, Nmap, Snort.
-* **Network Analysis** - Wireshark, Nmap, Snort.
-* **Pentesting** - Kali Linux, Burp Suite, Metasploit, Nessus, SQLMap, Nikto, etc.
-* **Threat Intel** - VirusTotal, AnyRun, MITRE ATT&CK.
+* **Threat Intel & Pentesting** - MITRE ATT&CK, VirusTotal, AnyRun, Kali Linux, Parrot OS, Burp Suite, Metasploit, Nessus, SQLMap, Nikto.
+* **Application Security** - Splunk, Elastic SIEM, Wireshark, Tcpdump, Nmap, Snort.
+* **Mission-Critical Infrastructure** - HPE NonStop Tandem Architecture.
+* **SIEM & Log Analysis** - OmniSplunk, Splunk, and Elastic SIEM.
+* **Network Security** - Wireshark, Nmap, Snort.
 * **OSINT & Recon** - Shodan, Whois, Epieos, etc
 * **Crypto / Forense** - CyberChef, FTK Imager, Autopsy, EnCase Imager.
 
