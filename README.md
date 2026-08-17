@@ -20,7 +20,7 @@ This section is constantly updated. 😄
 
 **Cybersecurity Tools:**
 
-* **Threat Intel & Pentesting** - MITRE ATT&CK, VirusTotal, AnyRun, Kali Linux, Parrot OS, Burp Suite, Metasploit, Nessus, SQLMap, Nikto.
+* **Pentesting & Threat Intel** - MITRE ATT&CK, VirusTotal, AnyRun, Kali Linux, Parrot OS, Burp Suite, Metasploit, Nessus, SQLMap, Nikto.
 * **Application Security** - Splunk, Elastic SIEM, Wireshark, Tcpdump, Nmap, Snort.
 * **Mission-Critical Infrastructure** - HPE NonStop Tandem Architecture.
 * **SIEM & Log Analysis** - OmniSplunk, Splunk, and Elastic SIEM.
