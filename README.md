@@ -46,9 +46,9 @@ This section is constantly updated. 😄
 ## Experience 🚀
 
 * **HPE NonStop Tandem Consultant** - OmniPayments
+* **Junior Penetration Tester** - Blacknode Security
 * **Application Security Engineer** – Financial Sector
 * **Secure Software Engineer** - IMSS Bienestar
-* **Secure Systems Architect (Internship)** - Neodata SA de CV
 * **Web System Developer** - Secretaría de Salud del Gobierno de México
 * **Biomedical Engineer** - Secretaría de Salud del Gobierno de México
 
