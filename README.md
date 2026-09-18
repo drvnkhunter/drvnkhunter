@@ -1,6 +1,6 @@
 # Hello, everyone. 👽🖖
 
-**Cybersecurity** and **Infrastructure** Professional with 3+ years of experience bridging **Ethical Hacking**, **Application Security**, and IT operations. Proven track record securing mission-critical **financial** and **healthcare systems** through threat modeling, SAST/DAST, and infrastructure hardening. **Master's** student in **Cybersecurity** and Active **ASICI Member - Asociación Internacional de Ciberseguridad** (Spain).
+I'm a **Cybersecurity** and Professional with 3+ years of experience bridging **Infraestructure** and **Application Security**.  My core focus is my work as an **HPE NonStop Tandem Consultant**, where I specialize in **hardening and securing mission-critical**, **fault-tolerant financial systems** to ensure maximum availability and resilience.. **Master's** student in **Cybersecurity** and Active **ASICI Member - Asociación Internacional de Ciberseguridad** (Spain).
 
 ## Tech Stack 🔧
 
